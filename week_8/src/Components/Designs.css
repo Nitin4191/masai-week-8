@@ -1,0 +1,27 @@
+.wallpaper {
+    background-image: url("https://thewallpaper.co//wp-content/uploads/2016/03/restaurant-high-resolution-wallpaper-for-desktop-background-download-images-free-colors-artworks-display-1920x1080.jpg");
+    height: 800px;
+}
+
+.wallpaper1 {
+    background-image: url("https://wallpapermemory.com/uploads/444/restaurant-wallpaper-hd-1280x1024-492492.jpg");
+    height: 800px;
+    width: 1900px;
+}
+
+.wallpaper2 {
+    background-image: url("https://competition.adesignaward.com/designs/deb01ace4d0ea429cbe494ebae9aa376080f3358-t710.jpg");
+    height: 700px;
+}
+
+.inputValue {
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.Submit {
+    width: 10%;
+    height: 5%;
+    font-size: 20px;
+    border-radius: 20px;
+}
